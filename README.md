@@ -2,7 +2,6 @@
 
 A simple, fast, and free QR code generator website that allows users to create QR codes from any web link. Built with vanilla HTML, CSS, and JavaScript for optimal performance and zero hosting costs.
 
-
 ![QR Code Generator](https://via.placeholder.com/800x400/667eea/white?text=QR+Code+Generator)
 
 ## ✨ Features
